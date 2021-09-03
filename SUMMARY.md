@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home page of WIL](README.md)
+* [What I learned](README.md)
 
 ## Programming
 
@@ -11,8 +11,10 @@
 
 ## Management
 
-* [Basics](management/basics.md)
+* [Product management](management/product-management/README.md)
+  * [Product development](management/product-management/product-development.md)
 * [Agile](management/agile/README.md)
+  * [Untitled](management/agile/untitled.md)
   * [Kanban](management/agile/kanban.md)
   * [SCRUM](management/agile/scrum.md)
 

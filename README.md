@@ -1,10 +1,4 @@
----
-description: Hello world!
----
+# What I learned
 
-# Home page of WIL
-
-## The first commit ever!
-
-This is a first commit.
+Inspired by [Learn in public](https://www.swyx.io/learn-in-public/)
 
