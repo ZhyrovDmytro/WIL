@@ -1,4 +1,0 @@
-# Basics
-
-This is text!
-
