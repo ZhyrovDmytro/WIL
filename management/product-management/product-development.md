@@ -13,9 +13,9 @@
 
 * conceive \(collect user problems\)
 * plan \(market research, customer interview, roadmap\)
-* develop \(write US\)
+* develop \(write user stories\)
 * iterate \(getting feedback on MVP\)
-* launch \(\)
-* steady state \(\)
+* launch \(work with a marketing\)
+* steady state \(iterating, collecting metrics, continue sales and development\)
 * maintain or kill
 

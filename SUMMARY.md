@@ -12,6 +12,7 @@
 ## Management
 
 * [Product management](management/product-management/README.md)
+  * [Customer development](management/product-management/customer-development.md)
   * [Product development](management/product-management/product-development.md)
 * [Agile](management/agile/README.md)
   * [Untitled](management/agile/untitled.md)
