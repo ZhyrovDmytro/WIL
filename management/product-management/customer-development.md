@@ -7,7 +7,7 @@ Customer development is a framework, according to it there are 4 steps in the **
 * Discovery
 * Validation
 * Creation
-* Bulding
+* Building
 
 ### Validation
 
@@ -36,5 +36,20 @@ All Interviews are a mix of these types:
 3. **Satisfaction oriented**
 4. **Efficiency**
 
+### Customer interview questions
 
+**Question rules:**
+
+1. **Ask open-ended questions!**
+2. Don't ask binary question \(yes or no\)
+3. Don't ask hypothetical question \(not real situation, people don't really know what they would do in hypothetical situations\)
+4. Don't ask leading question \(do you want to save money? almost rethorical, these are questions that somehow include the answer\)
+5. Don't ask Q that might make them lie \(don't put them in an awkward position\)
+
+**"That's interesting. tell me more"**
+
+### **Vulnerability of customer interview**
+
+* it doesn't scale\(hard to use few interviews for big amount of users\)
+* The data is qualitative \(also need quantitative data because it's more precise\)
 
