@@ -1,2 +1,2 @@
-# Agile
+# Development methodology
 
