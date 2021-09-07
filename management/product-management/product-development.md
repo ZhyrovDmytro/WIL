@@ -1,13 +1,13 @@
 # Product development
 
-### Product lifecycle
+## Product lifecycle
 
 * **Introduction** \(Itroduing product to market, typically loses $, little to no competition\)
 * **Growth** \(Accepted by market, slaes rise, Improving product\)
 * **Maturity** \(Sales peack, competitors enter market\)
 * **Decline** \(sales, diminish, product phase out, deemed old/irrelevant\)
 
-### Product development process
+## Product development process
 
 **Phases:**
 
