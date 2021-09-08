@@ -42,7 +42,7 @@
 
 1. **Simplicity -** the first solution is simple, we need only what we need right now, design is simple it covers only what is needed right now.
 2. **Communication -** less documentation more live communication
-3. **Feedback -** built software ****demonstrated early and changes made if needed, team talk about the project and adapt processes if needed. 
+3. **Feedback -**written software is shown early and changes made if needed, team talk about the project and adapt processes if needed. 
 4. **Respect -** developers respect the expertise of the "customers" and vice versa. Respect to the product and delivering high-quality work/code.
 5. **Courage -** team tells the truth about progress and estimation. Team adapts to changes, no one is working alone there is no space to fear.
 
