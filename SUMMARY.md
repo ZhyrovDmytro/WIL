@@ -6,9 +6,6 @@
 
 * [WebDev](programming/webdev/README.md)
   * [Performance](programming/webdev/performance.md)
-* [TS](programming/ts.md)
-* [React](programming/react/README.md)
-  * [Basics](programming/react/basics.md)
 * [JS](programming/js.md)
 
 ## Management

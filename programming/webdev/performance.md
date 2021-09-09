@@ -1,5 +1,14 @@
 # Performance
 
+Metrics that have an impact on web page speed score \(0-100\):
+
+* First Contentful Paint
+* First Meaningful Paint
+* Speed Index
+* First CPU Idle
+* Time to Interactive
+* Max Potential First Input Delay
+
 User has 2 steps while the page is rendering:
 
 1. Partially interaction with the page \(**FMP** - First meaningful paint\)
@@ -9,7 +18,9 @@ User has 2 steps while the page is rendering:
 
 **TTI** - web page is ready for use, scripts are loaded.
 
-**FMP** one of the main metrics which describes **Critical render path.**
+~~**FMP** one of the main metrics which describes **Critical render path.**~~
+
+In early 2019, Google announced that they would **evaluate a website’s speed ranking** by focusing on two performance metrics: **First Contentful Paint \(FCP\)** and **First Input Delay \(FID\)**.
 
 ### Critical render path
 
@@ -25,7 +36,37 @@ User has 2 steps while the page is rendering:
 8. Run JS code
 9. Rebuild DOM if needed
 10. Build render tree
-11. Paint the page \(layout -&gt; paint -&gt; Composite\)
+11. Paint the page \(layout -&gt; paint -&gt; Composite
 
+**FCP** \(first contentful paint\) -  measures how users perceive the performance of a website, rather than what a speed test tool measures.
 
+FCP requires some content to be rendered for instance text, images, non-white &lt;canvas/&gt;.
+
+![First Contentful Paint in GTMetrix&#x2019;s Timings tab](../../.gitbook/assets/image%20%282%29.png)
+
+### The good FCP score according to Google.
+
+[FCP should occur within 1.8 seconds or less](https://web.dev/fcp/#what-is-a-good-fcp-score). If  site FCP takes 3+ seconds, it’s considered slow.
+
+### How to improve 
+
+#### 1. Reduce Server Response Time \(TTFB - time to first byte\)
+
+FCT highly depended on TTFB, ways to reduce TTFB:
+
+1. **Use a Quality CDN**\(helps delivering static resources like images, videos, scripts\)
+2. **Enable Caching** Caching helps with reducing TTFB by decreasing the server processing time
+
+### 2. Remove Render-Blocking Resources
+
+1. **Inline critical Resources**. Identify JS and CSS that needed for FCP of the webpage,  [**guide by Google on how to identify critical resources**](https://web.dev/render-blocking-resources/#how-to-identify-critical-resources). Reemove themm from the render-blocking resource and then inline them inside your HTML page with **&lt;script&gt;** and **&lt;style&gt;** tags
+2. **Defer Non-Critical Resources.** Mark non-critical res. with [**async/defer** attr](https://javascript.info/script-async-defer)
+
+### 3. Geneerate Critical Path CSS and inline it
+
+If load CSS asynchroniously thee browser would show unstyled content to the user before CSS is loaded. This is known as [Flash of Unstyled Content \(FOUC\)](https://en.wikipedia.org/wiki/Flash_of_unstyled_content) 
+
+Use free online tools like [Pegasaas](https://pegasaas.com/critical-path-css-generator/) to generate Critical Path CSS. It works perfectly for most use cases. Check out Google’s [Analyzing Critical Rendering Path Performance](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp) for more.
+
+Once you’ve generated the Critical Path CSS, you need to inline it inside the HTML document.
 
