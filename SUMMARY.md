@@ -6,7 +6,6 @@
 
 * [WebDev](programming/webdev/README.md)
   * [Performance](programming/webdev/performance.md)
-* [JS](programming/js.md)
 
 ## Management
 
@@ -16,6 +15,4 @@
 * [Development methodology](management/development-methodology/README.md)
   * [Feedback Loops](management/development-methodology/feedback-loops.md)
   * [Extreme programming](management/development-methodology/extreme-programming.md)
-  * [Kanban](management/development-methodology/kanban.md)
-  * [SCRUM](management/development-methodology/scrum.md)
 

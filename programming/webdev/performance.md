@@ -1,5 +1,7 @@
 # Performance
 
+
+
 Metrics that have an impact on web page speed score \(0-100\):
 
 * First Contentful Paint
@@ -59,14 +61,75 @@ FCT highly depended on TTFB, ways to reduce TTFB:
 
 ### 2. Remove Render-Blocking Resources
 
-1. **Inline critical Resources**. Identify JS and CSS that needed for FCP of the webpage,  [**guide by Google on how to identify critical resources**](https://web.dev/render-blocking-resources/#how-to-identify-critical-resources). Reemove themm from the render-blocking resource and then inline them inside your HTML page with **&lt;script&gt;** and **&lt;style&gt;** tags
+1. **Inline critical Resources**. Identify JS and CSS that are needed for FCP of the webpage,  [**guide by Google on how to identify critical resources**](https://web.dev/render-blocking-resources/#how-to-identify-critical-resources). Remove them from the render-blocking resource and then inline them inside your HTML page with **&lt;script&gt;** and **&lt;style&gt;** tags
 2. **Defer Non-Critical Resources.** Mark non-critical res. with [**async/defer** attr](https://javascript.info/script-async-defer)
 
-### 3. Geneerate Critical Path CSS and inline it
+### 3. Generate Critical Path CSS and inline it
 
-If load CSS asynchroniously thee browser would show unstyled content to the user before CSS is loaded. This is known as [Flash of Unstyled Content \(FOUC\)](https://en.wikipedia.org/wiki/Flash_of_unstyled_content) 
+If load CSS asynchronously the browser would show unstyled content to the user before CSS is loaded. This is known as [Flash of Unstyled Content \(FOUC\)](https://en.wikipedia.org/wiki/Flash_of_unstyled_content) 
 
 Use free online tools like [Pegasaas](https://pegasaas.com/critical-path-css-generator/) to generate Critical Path CSS. It works perfectly for most use cases. Check out Google’s [Analyzing Critical Rendering Path Performance](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp) for more.
 
 Once you’ve generated the Critical Path CSS, you need to inline it inside the HTML document.
+
+### 3. Optimize the DOM size
+
+* lazyload HTML
+* paginate comments, posts, products
+* limit number of posts
+* don't hide unwanted elements with CSS, just not render them
+
+### 4. Resource hints
+
+When a user visits a website, the browser requests the HTML document from the server, parses it, submits separate requests for any other referenced resources, and after loading and parsing them all, renders the web page.
+
+#### **DNS Prefetching**
+
+Adding the **dns-prefetch** parameter will tell the browser to resolve the DNS of the URL as quickly as possible. 
+
+```text
+<link rel="dns-prefetch" href="//external-website.com">
+```
+
+Preconnect works much like DNS prefetching, except it doesn’t stop at just resolving the DNS. It’ll also go ahead and establish the TCP handshake and TLS negotiation \(if any\).
+
+```text
+<link rel="preconnect" href="https://example.com">
+```
+
+Bear in mind that preconnect can take up valuable processing time, especially for secure connections.
+
+#### **Prefetch**
+
+If you’re certain that a resource will be used in the future, then you can suggest the browser to **prefetch** it right away and store it in the browser. Unlike DNS prefetching, here you’re telling the browser to start loading the resource immediately.   
+
+
+```text
+<link rel="prefetch" href="scripts.js">
+```
+
+#### **Prerender**
+
+This is the most powerful resource hint. Adding the **prerender** parameter to a resource forces the browser to load all its assets, parse them, create a DOM tree, apply styles, execute scripts, render the webpage, and keep it ready to be served. If you visit the URL mentioned in the **href** later, the page will be loaded instantly.
+
+```text
+<link rel="prerender" href="https://example.com/next-page">
+```
+
+#### **Preload**
+
+Unlike prefetching, which acts more like a suggestion to the browser, the **preload** resource hint directs the browser to load the assets regardless of what it thinks. The browser cannot ignore the preloading directive.
+
+```text
+<head>
+  ...
+  <link rel="preload" href="styles.css" as="style">
+  <link rel="preload" href="ui.js" as="script">
+  ...
+</head>
+```
+
+The earlier the browser starts to request the declared preload links, the faster your pages can load.
+
+Resource hints won’t help much when a user visits your website for the first time. But every subsequent page they visit will render significantly faster. Since Google uses real usage data to evaluate a website’s speed ranking, resource _hints will help improve your site’s **FCP**_.
 

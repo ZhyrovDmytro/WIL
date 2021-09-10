@@ -1,2 +1,4 @@
 # WebDev
 
+* [Performance](performance.md)
+
