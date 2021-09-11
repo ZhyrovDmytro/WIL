@@ -1,6 +1,6 @@
 # Performance
 
-
+[Long read from google](https://web.dev/fast/#optimize-your-javascript)
 
 Metrics that have an impact on web page speed score \(0-100\):
 
@@ -48,7 +48,14 @@ FCP requires some content to be rendered for instance text, images, non-white &l
 
 ### The good FCP score according to Google.
 
-[FCP should occur within 1.8 seconds or less](https://web.dev/fcp/#what-is-a-good-fcp-score). If  site FCP takes 3+ seconds, it’s considered slow.
+[FCP should occur within 1.8 seconds or less](https://web.dev/fcp/#what-is-a-good-fcp-score). If site FCP takes 3+ seconds, it’s considered slow.
+
+**LCP is primarily affected by four factors:**
+
+* Slow server response times
+* Render-blocking JavaScript and CSS
+* Resource load times
+* Client-side rendering
 
 ### How to improve 
 
@@ -132,4 +139,43 @@ Unlike prefetching, which acts more like a suggestion to the browser, the **prel
 The earlier the browser starts to request the declared preload links, the faster your pages can load.
 
 Resource hints won’t help much when a user visits your website for the first time. But every subsequent page they visit will render significantly faster. Since Google uses real usage data to evaluate a website’s speed ranking, resource _hints will help improve your site’s **FCP**_.
+
+### 5. Minify blocking JS and CSS
+
+#### Reduce CSS blocking time <a id="reduce-css-blocking-time"></a>
+
+* Minify CSS
+* Defer non-critical CSS
+* Inline critical CSS
+
+Plugins to minify CSS for builder tools:
+
+* For webpack: [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin)
+* For Gulp: [gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css)
+* For Rollup: [rollup-plugin-css-porter](https://www.npmjs.com/package/rollup-plugin-css-porter)
+
+#### Reduce JavaScript blocking time <a id="reduce-javascript-blocking-time"></a>
+
+* [Minify and compress JavaScript files](https://web.dev/reduce-network-payloads-using-text-compression/)
+* [Defer unused JavaScript](https://web.dev/reduce-javascript-payloads-with-code-splitting/)
+* [Minimize unused polyfills](https://web.dev/serve-modern-code-to-modern-browsers/)
+
+[Reduce JavaScript blocking time](https://web.dev/optimize-lcp/#reduce-javascript-blocking-time) section to read more about these optimizations.  
+
+
+#### Use server-side rendering
+
+Use the server to render the application into HTML, where the client then "[hydrates](https://www.gatsbyjs.org/docs/react-hydration/)" all the JavaScript and required data onto the same DOM content. This can improve LCP by ensuring the main content of the page is first rendered on the server rather than only on the client, but there are a **few drawbacks**:
+
+* Maintaining the same JavaScript-rendered application on the server and the client can increase complexity.
+* Executing JavaScript to render an HTML file on the server will always increase server response times \(TTFB\) as compared to just serving static pages from the server.
+* A server-rendered page may look like it can be interacted with, but it can't respond to any user input until all the client-side JavaScript has executed. In short, it can make [**Time to Interactive**](https://web.dev/tti/) \(TTI\) worse.
+
+**Dive into different server-rendering architectures, here -&gt;** [**Rendering on the web**](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)**.**
+
+#### Use pre-rendering <a id="use-pre-rendering"></a>
+
+Pre-rendering is a **separate technique that is less complex than server-side rendering** and also provides a way to improve LCP in your application. A headless browser, which is a browser without a user interface, is used to generate static HTML files of every route during build time. These files can then be shipped along with the JavaScript bundles that are needed for the application.
+
+
 

@@ -50,6 +50,21 @@ All Interviews are a mix of these types:
 
 ### **Vulnerability of customer interview**
 
-* it doesn't scale\(hard to use few interviews for big amount of users\)
+* It doesn't scale\(hard to use few interviews for big amount of users\)
 * The data is qualitative \(also need quantitative data because it's more precise\)
+
+#### Best practices how to run customer interviews:
+
+* **Don't talk about your solution**, but talk about their problem. They might not know what they want, but they know what needs
+* **Don't talk about your own opinions** - customers should talk more than you, you might get new ideas from their answers.
+* **Create a comfortable environment**
+* **Don't force the conversation, guide it**
+
+#### Try to get an answer to these questions:
+
+* **Who** is your customer?  
+* **What** are their habits?
+* **When** do they need your product?
+* **Where** do they need it?
+* **Why** do they need it?
 
