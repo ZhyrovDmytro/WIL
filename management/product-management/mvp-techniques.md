@@ -14,6 +14,14 @@ Email client, email list/base, email writing skill
 
 * Take a more personal tone to avoid getting into Spam
 
+Best fit for small organizations. 
+
+**Tips:**
+
+* be aware of what customers expect
+* match the production value of your typical email
+* try to pair it with other techniques
+
 ### Shadow button MVP
 
 Instead of building a new feature, you can show a button that supposedly links people to that specific feature
@@ -22,13 +30,20 @@ The link might work and get them to another page, saying the feature is coming s
 
 **The number of clicks you get will signal the amount of interest**
 
-**404 and coming soon page**
+### **404 and coming soon page MVP**
 
 You act like you're adding a new feature, and when the user navigates to the page, it either displays a 404 error message or a page that says the product is coming soon and that will ask you to sign up
 
 #### _Amazon.com is using this type of MVP very frequently_
 
+**Tips**_:_
+
+1. design it
+2. shorten the horizon
+
 ### **Explainer** MVP **video**
+
+**Video converts better than text**
 
 You show the video that explains a new feature. Exist two types of video:
 

@@ -10,10 +10,11 @@
 ## Management
 
 * [General](management/general/README.md)
+  * [Agile Manifesto](management/general/agile-manifesto.md)
   * [The 7 levels of delegation](management/general/the-7-levels-of-delegation.md)
 * [Product management](management/product-management/README.md)
-  * [MVP techniques](management/product-management/mvp-techniques.md)
   * [7 steps to run MVP experiment](management/product-management/7-steps-to-run-mvp-experiment.md)
+  * [MVP techniques](management/product-management/mvp-techniques.md)
   * [Customer development](management/product-management/customer-development.md)
   * [Product development](management/product-management/product-development.md)
 * [Development methodology](management/development-methodology/README.md)
