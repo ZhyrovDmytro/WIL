@@ -11,6 +11,7 @@
 
 * [General](management/general/README.md)
   * [Agile Manifesto](management/general/agile-manifesto.md)
+  * [Principles behind the Agile Manifesto](management/general/principles-behind-the-agile-manifesto.md)
   * [The 7 levels of delegation](management/general/the-7-levels-of-delegation.md)
 * [Product management](management/product-management/README.md)
   * [7 steps to run MVP experiment](management/product-management/7-steps-to-run-mvp-experiment.md)
