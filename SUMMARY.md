@@ -18,6 +18,7 @@
   * [MVP techniques](management/product-management/mvp-techniques.md)
   * [Customer development](management/product-management/customer-development.md)
   * [Product development](management/product-management/product-development.md)
+  * [Metrics](management/product-management/metrics.md)
 * [Development methodology](management/development-methodology/README.md)
   * [Feedback Loops](management/development-methodology/feedback-loops.md)
   * [Extreme programming](management/development-methodology/extreme-programming.md)
