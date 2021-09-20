@@ -14,6 +14,8 @@
   * [Principles behind the Agile Manifesto](management/general/principles-behind-the-agile-manifesto.md)
   * [The 7 levels of delegation](management/general/the-7-levels-of-delegation.md)
 * [Product management](management/product-management/README.md)
+  * [Question to ask](management/product-management/question-to-ask.md)
+  * [The Kano Model](management/product-management/the-kano-model.md)
   * [7 steps to run MVP experiment](management/product-management/7-steps-to-run-mvp-experiment.md)
   * [MVP techniques](management/product-management/mvp-techniques.md)
   * [Customer development](management/product-management/customer-development.md)
