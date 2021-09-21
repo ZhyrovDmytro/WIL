@@ -5,6 +5,7 @@
 ## Programming
 
 * [WebDev](programming/webdev/README.md)
+  * [Fonts](programming/webdev/fonts.md)
   * [Performance](programming/webdev/performance.md)
 
 ## Management
