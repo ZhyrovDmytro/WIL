@@ -4,6 +4,8 @@
 
 ## Programming
 
+* [Webpack](programming/webpack/README.md)
+  * [Tree shaking and code splitting](programming/webpack/tree-shaking-and-code-splitting.md)
 * [WebDev](programming/webdev/README.md)
   * [Fonts](programming/webdev/fonts.md)
   * [Performance](programming/webdev/performance.md)
