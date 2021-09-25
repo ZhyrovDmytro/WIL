@@ -22,6 +22,7 @@
   * [The Kano Model](management/product-management/the-kano-model.md)
   * [7 steps to run MVP experiment](management/product-management/7-steps-to-run-mvp-experiment.md)
   * [MVP techniques](management/product-management/mvp-techniques.md)
+  * [The Amazon backward method](management/product-management/the-amazon-backward-method.md)
   * [Customer development](management/product-management/customer-development.md)
   * [Product development](management/product-management/product-development.md)
   * [Metrics](management/product-management/metrics.md)
