@@ -12,10 +12,10 @@
 
 ## Management
 
+* [Untitled](management/untitled.md)
 * [General](management/general/README.md)
   * [Agile Manifesto](management/general/agile-manifesto.md)
   * [Principles behind the Agile Manifesto](management/general/principles-behind-the-agile-manifesto.md)
-  * [Objective and key results \(OKR\)](management/general/objective-and-key-results-okr.md)
   * [The 7 levels of delegation](management/general/the-7-levels-of-delegation.md)
 * [Product management](management/product-management/README.md)
   * [Question to ask](management/product-management/question-to-ask.md)
@@ -26,6 +26,7 @@
   * [Product development](management/product-management/product-development.md)
   * [Metrics](management/product-management/metrics.md)
 * [Development methodology](management/development-methodology/README.md)
+  * [Objective and key results \(OKR\)](management/development-methodology/objective-and-key-results-okr.md)
   * [Feedback Loops](management/development-methodology/feedback-loops.md)
   * [Extreme programming](management/development-methodology/extreme-programming.md)
 

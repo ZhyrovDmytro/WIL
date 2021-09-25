@@ -44,7 +44,7 @@ In early 2019, Google announced that they would **evaluate a website’s speed r
 
 FCP requires some content to be rendered for instance text, images, non-white &lt;canvas/&gt;.
 
-![First Contentful Paint in GTMetrix&#x2019;s Timings tab](../../.gitbook/assets/image%20%282%29.png)
+![First Contentful Paint in GTMetrix&#x2019;s Timings tab](../../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 ### The good FCP score according to Google.
 
