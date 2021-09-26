@@ -2,7 +2,7 @@
 
 * [7 steps to run an mvp experiment](https://github.com/ZhyrovDmytro/WIL/tree/9ea83442b635c28a189133190aa6b957cb18ac8a/management/product-management/7-steps-to-run-mvp-experiment/README.md)
 * [Customer development](customer-development.md)
-* [Metrics](metrics.md)
+* [Metrics](metrics/)
 * [MVP techniques](mvp-techniques.md)
 * [Product development](product-development.md)
 * [Question to ask](question-to-ask.md)

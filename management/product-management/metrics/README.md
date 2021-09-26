@@ -4,6 +4,10 @@
 
 Metrics are also called KPI - Key Performance Indicators
 
+[How to pick a good metrics](how-to-pick-a-good-metric.md)
+
+[The HEART metrics Framework](the-heart-metrics-framework.md)
+
 Examples of metrics:
 
 * monthly active users
