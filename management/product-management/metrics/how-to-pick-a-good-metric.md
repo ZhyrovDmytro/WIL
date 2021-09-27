@@ -2,7 +2,7 @@
 
 **Exploratory metrics** - not always tracked, but they are there and it is possible to analyze them.
 
-**Reporting metrics** - tracked for a long period of time.
+**Reporting metrics** - are the day-to-day managerial metrics that tell you how your business is performing.
 
 **The good metric should be:**
 
