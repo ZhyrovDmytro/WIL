@@ -8,6 +8,12 @@ Metrics are also called KPI - Key Performance Indicators
 
 [The HEART metrics Framework](the-heart-metrics-framework.md)
 
+[The AARRR Framework](the-aarrr-framework.md)
+
+[Tools](metrics-tools.md)
+
+
+
 Examples of metrics:
 
 * monthly active users

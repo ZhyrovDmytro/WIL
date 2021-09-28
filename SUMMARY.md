@@ -30,6 +30,7 @@
     * [The HEART metrics framework](management/product-management/metrics/the-heart-metrics-framework.md)
     * [The AARRR Framework](management/product-management/metrics/the-aarrr-framework.md)
     * [Metrics tools](management/product-management/metrics/metrics-tools.md)
+    * [SaaS Metrics](management/product-management/metrics/saas-metrics.md)
 * [Development methodology](management/development-methodology/README.md)
   * [Objective and key results \(OKR\)](management/development-methodology/objective-and-key-results-okr.md)
   * [Feedback Loops](management/development-methodology/feedback-loops.md)
