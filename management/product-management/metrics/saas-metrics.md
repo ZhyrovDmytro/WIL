@@ -14,14 +14,22 @@ _**As soon as the business has shown that it can succeed, it should invest aggre
 
 SaaS is usually a “winner-takes-all” game, and it is therefore important to grab market share as fast as possible to make sure you are the winner in your space.
 
-To calculate if you can earn more than spend to acquire customers you need these metrics:
+To calculate if you can **earn more than spend** to acquire customers you need these metrics:
 
 * **LTV** – the _Lifetime Value of a typical customer_
 * **CAC** – the _Cost to Acquire a  typical Customer_
 
-\_\_
+Is the business profitable in long run, time to profitability:
 
-source _-_ [_https://www.forentrepreneurs.com/saas-metrics-2/_](https://www.forentrepreneurs.com/saas-metrics-2/)\_\_
+![](../../../.gitbook/assets/image%20%287%29.png)
+
+
+
+source:
+
+ __[_https://www.forentrepreneurs.com/saas-metrics-2/_](https://www.forentrepreneurs.com/saas-metrics-2/)\_\_
+
+\_\_[_https://www.forentrepreneurs.com/saas-metrics/_](https://www.forentrepreneurs.com/saas-metrics/)\_\_
 
 
 
