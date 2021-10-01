@@ -35,4 +35,5 @@
   * [Objective and key results \(OKR\)](management/development-methodology/objective-and-key-results-okr.md)
   * [Feedback Loops](management/development-methodology/feedback-loops.md)
   * [Extreme programming](management/development-methodology/extreme-programming.md)
+  * [SAFe](management/development-methodology/safe.md)
 

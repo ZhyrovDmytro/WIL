@@ -25,7 +25,7 @@ Improve the product. Use customer interview to understand what is working and wh
 
 Transform an organization from "startup" mentality to an ongoing, execution-focused company.
 
-![](../../.gitbook/assets/image%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ## Types of customer interviews
 
