@@ -8,6 +8,7 @@
 * [Question to ask](question-to-ask.md)
 * [The Kano method](the-kano-model.md)
 * [Working backward \(the Amazon method\)](https://github.com/ZhyrovDmytro/WIL/tree/9ea83442b635c28a189133190aa6b957cb18ac8a/management/product-management/working-backward-the-amazon-method.md)
+* [Prioritizations](prioritisation.md) 
 
 Check the product frameworks collection page: [https://www.product-frameworks.com/index.html](https://www.product-frameworks.com/index.html)
 
