@@ -10,6 +10,7 @@
   * [Fonts](programming/webdev/fonts.md)
   * [Performance](programming/webdev/performance.md)
   * [Event handling](programming/webdev/event-handling.md)
+  * [ResizeObserver](programming/webdev/resizeobserver.md)
 
 ## Management
 
