@@ -11,6 +11,7 @@
   * [Performance](programming/webdev/performance.md)
   * [Event handling](programming/webdev/event-handling.md)
   * [ResizeObserver](programming/webdev/resizeobserver.md)
+  * [Service Worker](programming/webdev/service-worker.md)
 
 ## Management
 
