@@ -6,6 +6,9 @@
 
 * [Webpack](programming/webpack/README.md)
   * [Tree shaking and code splitting](programming/webpack/tree-shaking-and-code-splitting.md)
+* [SQL and Databases](programming/sql-and-databases/README.md)
+  * [Relational Database](programming/sql-and-databases/relational-database.md)
+  * [SQL](programming/sql-and-databases/sql.md)
 * [WebDev](programming/webdev/README.md)
   * [Fonts](programming/webdev/fonts.md)
   * [Performance](programming/webdev/performance.md)
