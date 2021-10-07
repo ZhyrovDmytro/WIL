@@ -141,7 +141,117 @@ Constraints can either be column level or table level_._
 * [CHECK Constraint](https://www.tutorialspoint.com/sql/sql-check.htm) − The CHECK constraint ensures that all values in a column satisfy certain conditions.
 * [INDEX](https://www.tutorialspoint.com/sql/sql-index.htm) − Used to create and retrieve data from the database very quickly.
 
+### SQL Logical Operators
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Sr.No.</th>
+      <th style="text-align:left">Operator &amp; Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">
+        <p><b>ALL</b>
+        </p>
+        <p>The ALL operator is used to compare a value to all values in another value
+          set.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">
+        <p><b>AND</b>
+        </p>
+        <p>The AND operator allows the existence of multiple conditions in an SQL
+          statement&apos;s WHERE clause.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">
+        <p><b>ANY</b>
+        </p>
+        <p>The ANY operator is used to compare a value to any applicable value in
+          the list as per the condition.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">
+        <p><b>BETWEEN</b>
+        </p>
+        <p>The BETWEEN operator is used to search for values that are within a set
+          of values, given the minimum value and the maximum value.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">
+        <p><b>EXISTS</b>
+        </p>
+        <p>The EXISTS operator is used to search for the presence of a row in a specified
+          table that meets a certain criterion.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">
+        <p><b>IN</b>
+        </p>
+        <p>The IN operator is used to compare a value to a list of literal values
+          that have been specified.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">
+        <p><b>LIKE</b>
+        </p>
+        <p>The LIKE operator is used to compare a value to similar values using wildcard
+          operators.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left">
+        <p><b>NOT</b>
+        </p>
+        <p>The NOT operator reverses the meaning of the logical operator with which
+          it is used. Eg: NOT EXISTS, NOT BETWEEN, NOT IN, etc. <b>This is a negate operator.</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">
+        <p><b>OR</b>
+        </p>
+        <p>The OR operator is used to combine multiple conditions in an SQL statement&apos;s
+          WHERE clause.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10</td>
+      <td style="text-align:left">
+        <p><b>IS NULL</b>
+        </p>
+        <p>The NULL operator is used to compare a value with a NULL value.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11</td>
+      <td style="text-align:left">
+        <p><b>UNIQUE</b>
+        </p>
+        <p>The UNIQUE operator searches every row of a specified table for uniqueness
+          (no duplicates).</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 source: 
 
