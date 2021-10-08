@@ -8,7 +8,8 @@
   * [Tree shaking and code splitting](programming/webpack/tree-shaking-and-code-splitting.md)
 * [SQL and Databases](programming/sql-and-databases/README.md)
   * [Relational Database](programming/sql-and-databases/relational-database.md)
-  * [SQL](programming/sql-and-databases/sql.md)
+  * [SQL](programming/sql-and-databases/sql/README.md)
+    * [Create database with SQL](programming/sql-and-databases/sql/create-database-with-sql.md)
 * [WebDev](programming/webdev/README.md)
   * [Fonts](programming/webdev/fonts.md)
   * [Performance](programming/webdev/performance.md)
@@ -18,7 +19,6 @@
 
 ## Management
 
-* [Untitled](management/untitled.md)
 * [General](management/general/README.md)
   * [Agile Manifesto](management/general/agile-manifesto.md)
   * [Principles behind the Agile Manifesto](management/general/principles-behind-the-agile-manifesto.md)
