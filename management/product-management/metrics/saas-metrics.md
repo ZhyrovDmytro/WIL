@@ -17,21 +17,14 @@ SaaS is usually a “winner-takes-all” game, and it is therefore important to 
 To calculate if you can **earn more than spend** to acquire customers you need these metrics:
 
 * **LTV** – the _Lifetime Value of a typical customer_
-* **CAC** – the _Cost to Acquire a  typical Customer_
+* **CAC** – the _Cost to Acquire a typical Customer_
 
 Is the business profitable in long run, time to profitability:
 
-![](../../../.gitbook/assets/image%20%287%29.png)
-
-
+![](<../../../.gitbook/assets/image (7).png>)
 
 source:
 
- __[_https://www.forentrepreneurs.com/saas-metrics-2/_](https://www.forentrepreneurs.com/saas-metrics-2/)\_\_
+\__[_https://www.forentrepreneurs.com/saas-metrics-2/_](https://www.forentrepreneurs.com/saas-metrics-2/)\__
 
-\_\_[_https://www.forentrepreneurs.com/saas-metrics/_](https://www.forentrepreneurs.com/saas-metrics/)\_\_
-
-
-
-
-
+\__[_https://www.forentrepreneurs.com/saas-metrics/_](https://www.forentrepreneurs.com/saas-metrics/)\__

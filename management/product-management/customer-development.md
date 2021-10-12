@@ -1,6 +1,6 @@
 # Customer development
 
-The Practice of establishing and continuous and iterative communication with a customer. It helps come up with ideas , hypotheses, try them out, get feedback and adapt the product accordingly \(Get feedback and use feedback\).
+The Practice of establishing and continuous and iterative communication with a customer. It helps come up with ideas , hypotheses, try them out, get feedback and adapt the product accordingly (Get feedback and use feedback).
 
 Customer development is a framework, according to it there are 4 steps in the **product lifecycle:**
 
@@ -25,7 +25,7 @@ Improve the product. Use customer interview to understand what is working and wh
 
 Transform an organization from "startup" mentality to an ongoing, execution-focused company.
 
-![](../../.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ## Types of customer interviews
 
@@ -38,20 +38,32 @@ All Interviews are a mix of these types:
 
 ### Customer interview questions
 
+**Question types:**
+
+* **Open-ended **(What makes you interested in this product? In what ways would this product be more valuable for you? Tell me more...)
+* **Rating and ranking** (How would you rate this product? What does 4 mean for you?)
+* **Projectives **(My job would be so easier if this product ..., When I use this product I feel... If this product was designed by Apple or Tesla how would it looks like?)
+* **Laddering **(Why is that important?)
+* **Ethnography **(it is more observation. Watch how customer uses your product)
+
+**Open-ended **(What makes you interested in this product? In what ways would this product be more valuable for you? Tell me more...).
+
+
+
 **Question rules:**
 
-1. **Ask open-ended questions!**
-2. Don't ask binary question \(yes or no\)
-3. Don't ask hypothetical question \(not real situation, people don't really know what they would do in hypothetical situations\)
-4. Don't ask leading question \(do you want to save money? almost rethorical, these are questions that somehow include the answer\)
-5. Don't ask Q that might make them lie \(don't put them in an awkward position\)
+1. **Ask open-ended questions! **
+2. Don't ask binary question (yes or no)
+3. Don't ask hypothetical question (not real situation, people don't really know what they would do in hypothetical situations)
+4. Don't ask leading question (do you want to save money? almost rethorical, these are questions that somehow include the answer)
+5. Don't ask Q that might make them lie (don't put them in an awkward position)
 
 **"That's interesting. tell me more"**
 
 ### **Vulnerability of customer interview**
 
-* It doesn't scale\(hard to use few interviews for big amount of users\)
-* The data is qualitative \(also need quantitative data because it's more precise\)
+* It doesn't scale(hard to use few interviews for big amount of users)
+* The data is qualitative (also need quantitative data because it's more precise)
 
 #### Best practices how to run customer interviews:
 
@@ -62,9 +74,8 @@ All Interviews are a mix of these types:
 
 #### Try to get an answer to these questions:
 
-* **Who** is your customer?  
+* **Who** is your customer?
 * **What** are their habits?
 * **When** do they need your product?
 * **Where** do they need it?
 * **Why** do they need it?
-
