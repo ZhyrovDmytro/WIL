@@ -23,3 +23,10 @@
 ### Customer Interview
 
 [Customer interview questions](../customer-development.md#customer-interview-questions)
+
+### Analyze direct competitors
+
+* How **important** is the competitor(now and in the future) - Revenue (estimates are much better than no data), market share, and trend
+* How the competitor **approaches the market**(now and in the future) - Strategic direction, target market, weaknesses, go-to market approach, pricing.
+* How are we **different from the competitors** - Positioning
+* How do their products stack up - product comperison(benefits & features)
