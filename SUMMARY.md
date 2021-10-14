@@ -11,6 +11,7 @@
   * [SQL](programming/sql-and-databases/sql/README.md)
     * [Database](programming/sql-and-databases/sql/create-database-with-sql.md)
     * [Table](programming/sql-and-databases/sql/table.md)
+    * [UPDATE Statement](programming/sql-and-databases/sql/update-statement.md)
     * [INSERT Query](programming/sql-and-databases/sql/insert-query.md)
 * [WebDev](programming/webdev/README.md)
   * [Fonts](programming/webdev/fonts.md)
