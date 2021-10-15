@@ -29,6 +29,7 @@
 * [Product management](management/product-management/README.md)
   * [The work of product management](management/product-management/the-work-of-product-management/README.md)
     * [Market intelligence](management/product-management/the-work-of-product-management/market-intelligence.md)
+    * [Product strategy](management/product-management/the-work-of-product-management/product-strategy.md)
   * [Question to ask](management/product-management/question-to-ask.md)
   * [The Kano Model](management/product-management/the-kano-model.md)
   * [7 steps to run MVP experiment](management/product-management/7-steps-to-run-mvp-experiment.md)
