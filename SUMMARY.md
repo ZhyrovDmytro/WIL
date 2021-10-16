@@ -49,3 +49,8 @@
   * [Feedback Loops](management/development-methodology/feedback-loops.md)
   * [Extreme programming](management/development-methodology/extreme-programming.md)
   * [SAFe](management/development-methodology/safe.md)
+
+## General
+
+* [Learning](general/learning/README.md)
+  * [The Feynman technique](general/learning/the-feynman-technique.md)
