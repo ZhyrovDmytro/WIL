@@ -1,6 +1,8 @@
-# The work of product management
+# Product management 101
+
+
 
 * [Market intelligence](market-intelligence.md)
-* Strategy
+* [Product Strategy](product-strategy.md)
 * New product development
 * Lifecycle management
