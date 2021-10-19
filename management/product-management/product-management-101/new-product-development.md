@@ -19,5 +19,9 @@ Faster streamlined prioritization of def efforts, great focus on big impact item
 * Support & bug fixes
 * Technical debt
 
+### Prioritization
+
+Check the [prioritization page](../prioritisation.md).
+
 
 

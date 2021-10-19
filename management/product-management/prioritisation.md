@@ -2,13 +2,13 @@
 
 ### The assumption method
 
-Prioritise by the assumptions, try the riskiest assumptions first. Take a riskiest assumption and give to it a score from 1 to 10, 10 is max risk, rate an important of doing that from 1 to 10, 10 is very important, _add these values and prioritise assumptions based on  that ._ 
+Prioritise by the assumptions, try the riskiest assumptions first. Take a riskiest assumption and give to it a score from 1 to 10, 10 is max risk, rate an important of doing that from 1 to 10, 10 is very important, _add these values and prioritise assumptions based on that ._
 
 `Risk + importance = Rank`
 
 ### The BUC method
 
-* business benefits 
+* business benefits
 * user benefits
 * cost
 
@@ -25,3 +25,13 @@ Prioritise based on this rank, the highest on the top.
 * Could
 * Would
 
+### Value/Effort Matrix
+
+![](<../../.gitbook/assets/image (11).png>)
+
+Setup effort and value for each idea you have.
+
+* Top-left** -> Bring lots of value hard to implement**. (Big bets)
+* Top-right** -> Easy to implement and high value.** (_<mark style="background-color:blue;">This is a  quick win</mark>!!!_)
+* Bottom-left **-> Small value hard to implement **(Less prio, doesn't worse)
+* Bottom-right** -> Bottom Right is Maybes.** (Can be done later)

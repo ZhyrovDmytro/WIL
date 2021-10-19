@@ -25,6 +25,6 @@ Is the business profitable in long run, time to profitability:
 
 source:
 
-\__[_https://www.forentrepreneurs.com/saas-metrics-2/_](https://www.forentrepreneurs.com/saas-metrics-2/)\__
+\_\_[_https://www.forentrepreneurs.com/saas-metrics-2/_](https://www.forentrepreneurs.com/saas-metrics-2/)\_\_
 
-\__[_https://www.forentrepreneurs.com/saas-metrics/_](https://www.forentrepreneurs.com/saas-metrics/)\__
+\_\_[_https://www.forentrepreneurs.com/saas-metrics/_](https://www.forentrepreneurs.com/saas-metrics/)\_\_

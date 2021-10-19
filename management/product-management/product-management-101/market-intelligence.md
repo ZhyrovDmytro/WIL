@@ -18,7 +18,7 @@
 * What would they like to see?
 * What are the emotions?
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
 
 ### Customer Interview
 
