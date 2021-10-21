@@ -25,10 +25,12 @@
 ## Management
 
 * [General](management/general/README.md)
+  * [Project management manifesto](management/general/project-management-manifesto.md)
   * [Agile Manifesto](management/general/agile-manifesto.md)
   * [Principles behind the Agile Manifesto](management/general/principles-behind-the-agile-manifesto.md)
   * [The 7 levels of delegation](management/general/the-7-levels-of-delegation.md)
 * [Product management](management/product-management/README.md)
+  * [Product management manifesto](management/product-management/product-management-manifesto.md)
   * [Product management 101](management/product-management/product-management-101/README.md)
     * [Market intelligence](management/product-management/product-management-101/market-intelligence.md)
     * [Product strategy](management/product-management/product-management-101/product-strategy.md)

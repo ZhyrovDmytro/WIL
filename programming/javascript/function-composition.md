@@ -43,6 +43,25 @@ const compose =
     fns.reduceRight((res, fn) => fn(res), x);
 ```
 
+the X value is passed to reduce func as an acc and as a initial value, **we execute every function passed as argument from rigth to left with the result of aprevious one. **
+
+### **Pipe**
+
+Works same as a _compose_ function but **execute functions from left to right.**
+
+```
+const pipe =
+  (...fns) =>
+  (x) =>
+    fns.reduce((res, fn) => fn(res), x);
+```
+
+example: _the first executed function will be normilixePrice, then divide and then multiply_
+
+```
+const discountPipe = pipe(multiply20, divide100, normalizePrice);
+```
+
 sources:&#x20;
 
 * [Function compositions with compose and pipe](https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee)
