@@ -34,6 +34,7 @@
   * [Product management 101](management/product-management/product-management-101/README.md)
     * [Market intelligence](management/product-management/product-management-101/market-intelligence.md)
     * [Product strategy](management/product-management/product-management-101/product-strategy.md)
+    * [Pricing](management/product-management/product-management-101/pricing.md)
     * [New Product development](management/product-management/product-management-101/new-product-development.md)
   * [Question to ask](management/product-management/question-to-ask.md)
   * [The Kano Model](management/product-management/the-kano-model.md)
