@@ -6,6 +6,8 @@
 
 * [JavaScript](programming/javascript/README.md)
   * [Function composition](programming/javascript/function-composition.md)
+* [TypeScript](programming/typescript/README.md)
+  * [Generics](programming/typescript/generics.md)
 * [Webpack](programming/webpack/README.md)
   * [Tree shaking and code splitting](programming/webpack/tree-shaking-and-code-splitting.md)
 * [SQL and Databases](programming/sql-and-databases/README.md)
