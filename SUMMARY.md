@@ -23,6 +23,7 @@
   * [Event handling](programming/webdev/event-handling.md)
   * [ResizeObserver](programming/webdev/resizeobserver.md)
   * [Service Worker](programming/webdev/service-worker.md)
+* [Web 3.0](programming/web-3.0.md)
 
 ## Management
 
