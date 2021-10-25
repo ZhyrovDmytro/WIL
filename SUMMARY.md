@@ -30,6 +30,7 @@
 * [General](management/general/README.md)
   * [Project management manifesto](management/general/project-management-manifesto.md)
   * [Agile Manifesto](management/general/agile-manifesto.md)
+  * [Agile leadership](management/general/agile-leadership.md)
   * [Principles behind the Agile Manifesto](management/general/principles-behind-the-agile-manifesto.md)
   * [The 7 levels of delegation](management/general/the-7-levels-of-delegation.md)
 * [Product management](management/product-management/README.md)
