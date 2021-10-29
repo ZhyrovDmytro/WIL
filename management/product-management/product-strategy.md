@@ -33,4 +33,23 @@ A good product strategy:
 
 _For growing companies who need to control infrastructure costs as they grow, Amazon Web Services or AWS is a cloud hosting service that is highly flexible. Unlike Google Cloud or Microsoft Azure, AWS offers a complete portfolio of Cloud services. _
 
-__
+### Planning strategy
+
+* identify key stakeholders
+* seek a variety of perspectives
+* pay attention to investors and competitors&#x20;
+* communicate broadly and frequently
+* focus on execution
+
+### Stakeholders
+
+* decision makers
+* influencers
+* finance people
+
+### Product Strategy Development
+
+Collect inputs => Organize inputs => Make strategic choices => Execute the plan
+
+
+
