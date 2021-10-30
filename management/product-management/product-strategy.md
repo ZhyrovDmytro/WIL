@@ -51,5 +51,18 @@ _For growing companies who need to control infrastructure costs as they grow, Am
 
 Collect inputs => Organize inputs => Make strategic choices => Execute the plan
 
+#### Collecting inputs
+
+* Venture capitalist investments&#x20;
+* examine market research
+* review financials
+* follow competitors
+
+#### Organizing inputs
+
+* Examine key trends
+* Review competitors
+* Adress own position
+
 
 
