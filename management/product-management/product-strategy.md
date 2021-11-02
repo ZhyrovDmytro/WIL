@@ -64,5 +64,13 @@ Collect inputs => Organize inputs => Make strategic choices => Execute the plan
 * Review competitors
 * Adress own position
 
+### Competition strategies
+
+* Cost - provide a product that is cheaper than anyone else in your industry
+* Differentiation - provide a different experience or feature set than anyone else in your industry
+* Focus - focus on a very narrow market while ignoring the rest, as opposed to the first two which are focused on broad ones the focus strategy has two subsets: **cost & differentiation**
+
+****
+
 
 
