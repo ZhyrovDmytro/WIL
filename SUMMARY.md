@@ -67,3 +67,7 @@
 
 * [Learning](general/learning/README.md)
   * [The Feynman technique](general/learning/the-feynman-technique.md)
+
+## Books
+
+* [Accelerate](books/accelerate.md)
