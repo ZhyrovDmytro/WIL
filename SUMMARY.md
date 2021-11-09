@@ -5,6 +5,7 @@
 ## Programming
 
 * [JavaScript](programming/javascript/README.md)
+  * [Prettier, the format script](programming/javascript/prettier-the-format-script.md)
   * [Function composition](programming/javascript/function-composition.md)
 * [TypeScript](programming/typescript/README.md)
   * [Generics](programming/typescript/generics.md)
