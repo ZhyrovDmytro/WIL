@@ -63,6 +63,9 @@
   * [Feedback Loops](management/development-methodology/feedback-loops.md)
   * [Extreme programming](management/development-methodology/extreme-programming.md)
   * [SAFe](management/development-methodology/safe.md)
+* [DevOps](management/devops/README.md)
+  * [Values of DevOps (CAMS)](management/devops/values-of-devops-cams.md)
+  * [Principles](management/devops/principles.md)
 
 ## General
 
@@ -82,3 +85,4 @@
   * [be/get use to](english/grammar-in-use/be-get-use-to.md)
   * [although, though, in spite, despite](english/grammar-in-use/although-though-in-spite-despite.md)
   * [Questions](english/grammar-in-use/questions.md)
+  * [some/any](english/grammar-in-use/some-any.md)
