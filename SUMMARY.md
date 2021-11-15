@@ -66,6 +66,7 @@
 * [DevOps](management/devops/README.md)
   * [Values of DevOps (CAMS)](management/devops/values-of-devops-cams.md)
   * [Principles](management/devops/principles.md)
+  * [10 Practices for DevOps success](management/devops/10-practices-for-devops-success.md)
 
 ## General
 
