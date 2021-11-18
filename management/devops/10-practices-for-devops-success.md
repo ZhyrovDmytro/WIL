@@ -20,6 +20,10 @@ Incident management includes an explicit emphasis on involving developer teams f
 
 ### Blameless Postmortems&#x20;
 
+A blameless postmortem (or **retrospective**) is a post-incident document that helps teams figure out why an incident happened, and brainstorm how to improve the process to prevent similar incidents from happening again.
+
+[Google's approach](https://sre.google/sre-book/postmortem-culture/)
+
 ### Embedded teams
 
 ### The cloud
