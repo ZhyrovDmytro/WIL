@@ -24,6 +24,10 @@ A blameless postmortem (or **retrospective**) is a post-incident document that h
 
 [Google's approach](https://sre.google/sre-book/postmortem-culture/)
 
+The blameless posmortems meeting investigates problems and incidents without making accusations or blaming any particular person or team. A blameless mindset assumes that all parties were doing the best they could with the information that they had at the time.
+
+<mark style="background-color:yellow;">**We look backward to look forward and try to prevent issues from recurring**</mark>
+
 ### Embedded teams
 
 ### The cloud
