@@ -69,6 +69,7 @@
   * [10 Practices for DevOps success](management/devops/10-practices-for-devops-success.md)
   * [Continuous integration practicies](management/devops/continuous-integration-practicies.md)
   * [Kaizen](management/devops/kaizen.md)
+  * [Types of testing](management/devops/types-of-testing.md)
 
 ## General
 
