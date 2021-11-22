@@ -25,6 +25,8 @@
   * [ResizeObserver](programming/webdev/resizeobserver.md)
   * [Service Worker](programming/webdev/service-worker.md)
 * [Web 3.0](programming/web-3.0.md)
+* [Testing](programming/testing/README.md)
+  * [Jest Mocks](programming/testing/jest-mocks.md)
 
 ## Management
 
@@ -72,6 +74,7 @@
   * [System monitoring](management/devops/system-monitoring.md)
   * [How complex systems fail](management/devops/how-complex-systems-fail.md)
   * [Types of testing](management/devops/types-of-testing.md)
+  * [Books to read about DevOps](management/devops/books-to-read-about-devops.md)
 
 ## General
 
