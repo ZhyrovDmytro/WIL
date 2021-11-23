@@ -25,6 +25,8 @@
   * [ResizeObserver](programming/webdev/resizeobserver.md)
   * [Service Worker](programming/webdev/service-worker.md)
 * [Web 3.0](programming/web-3.0.md)
+* [git hooks](programming/git-hooks/README.md)
+  * [commit-msg](programming/git-hooks/commit-msg.md)
 * [Testing](programming/testing/README.md)
   * [Jest Mocks](programming/testing/jest-mocks.md)
 
