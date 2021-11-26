@@ -1,5 +1,24 @@
 # commit-msg
 
+replace `commit-msg.sample` script
+
+
+
+e in `.git/hooks/ folder` or replace with your own script file with same name. :thumbsup:
+
+```
+#!/bin/sh
+
+if ! head -1 "$1" | grep -qE "^(chore|docs|revert|refactor)(\(.+?\))?:? .{4,88}$"; then
+    echo "Fail! Commit message is invalid. Follow the pattern 'NM-[0-9]{2,5}: message{4,88}" or "chore|revert|docs: message{4,88}'" >&2
+    exit 1
+fi
+```
+
+enable script with command `chmod +x <path/to/file>`
+
+or use husky library and commit lint
+
 ```
 yarn add husky -D
 yarn commitlint @commitlint/cli -D
