@@ -77,6 +77,7 @@
   * [How complex systems fail](management/devops/how-complex-systems-fail.md)
   * [Types of testing](management/devops/types-of-testing.md)
   * [Books to read about DevOps](management/devops/books-to-read-about-devops.md)
+* [Software development best practices](management/software-development-best-practices.md)
 
 ## General
 
