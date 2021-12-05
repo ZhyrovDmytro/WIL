@@ -12,6 +12,7 @@
   * [Pick and Omit](programming/typescript/pick-and-omit.md)
   * [Extract and Exclude](programming/typescript/extract-and-exclude.md)
   * [Record](programming/typescript/record.md)
+  * [Type vs Interface](programming/typescript/type-vs-interface.md)
   * [Generics](programming/typescript/generics.md)
 * [Webpack](programming/webpack/README.md)
   * [Tree shaking and code splitting](programming/webpack/tree-shaking-and-code-splitting.md)
