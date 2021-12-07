@@ -108,3 +108,4 @@
 ## Finance
 
 * [Futures](finance/futures.md)
+* [Options](finance/options.md)
