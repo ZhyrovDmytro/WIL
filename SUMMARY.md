@@ -14,6 +14,7 @@
   * [Record](programming/typescript/record.md)
   * [Type vs Interface](programming/typescript/type-vs-interface.md)
   * [NonNullable](programming/typescript/nonnullable.md)
+  * [Conditional Types](programming/typescript/conditional-types.md)
   * [Generics](programming/typescript/generics.md)
 * [Webpack](programming/webpack/README.md)
   * [Tree shaking and code splitting](programming/webpack/tree-shaking-and-code-splitting.md)
