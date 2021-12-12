@@ -8,6 +8,7 @@
   * [Prettier, the format script](programming/javascript/prettier-the-format-script.md)
   * [Function composition](programming/javascript/function-composition.md)
 * [TypeScript](programming/typescript/README.md)
+  * [Adding TS to JS project](programming/typescript/adding-ts-to-js-project.md)
   * [Partial and Required](programming/typescript/partial-and-required.md)
   * [Pick and Omit](programming/typescript/pick-and-omit.md)
   * [Extract and Exclude](programming/typescript/extract-and-exclude.md)
