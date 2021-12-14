@@ -111,4 +111,5 @@
 
 * [Futures](finance/futures.md)
 * [Warrants](finance/warrants.md)
+* [Mergers and Acquisitions](finance/mergers-and-acquisitions.md)
 * [Options](finance/options.md)
