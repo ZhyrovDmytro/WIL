@@ -88,6 +88,11 @@
   * [Books to read about DevOps](management/devops/books-to-read-about-devops.md)
 * [Software development best practices](management/software-development-best-practices.md)
 
+## marketing
+
+* [How to Analyse Direct competition](marketing/how-to-analyse-direct-competition.md)
+* [Competitor analysis](marketing/competitor-analysis.md)
+
 ## General
 
 * [Learning](general/learning/README.md)
