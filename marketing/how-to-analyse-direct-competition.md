@@ -13,7 +13,7 @@ You will find answers to very important questions:
 
 To find out direct competitors use[ **competitor analysis**](competitor-analysis.md)**.**
 
-### Step 2 – Compare your Market with direct competitors
+### Step 2. Compare your Market with direct competitors
 
 Here are some of the things you may notice**:**
 
@@ -30,6 +30,13 @@ Here are some of the things you may notice**:**
 
 [**Differentiate**](https://www.marketing91.com/differentiation-strategy/) **or think out of the box** for areas which are not covered by you both. If they are not covered by you both then there is something missing in terms of coverage or [product](https://www.marketing91.com/what-is-a-product/) is not being used by those [people](https://www.marketing91.com/people-marketing-mix/). Then you need to **think out of the box** to offer a product to this market which is untapped.
 
+### Step 3. Comparing business to business
+
+1. Analyze the [product portfolio](https://www.marketing91.com/product-portfolio/) – Analyse the product [line and length](https://www.marketing91.com/product-mix-product-line/) of yourself and your competitors. If there is a major difference, or if there are some hit products in the competitors [portfolio](https://www.marketing91.com/product-portfolio/), then adapt those products in your portfolio as well.
+2. Analyze sales revenue – You will get sales revenues from trade reports or from [market analysis](https://www.marketing91.com/market-analysis/). Sales revenue will give you the overall breakdown of where the competitor is earning major revenue from. So if out of 4 business units, 2 are earning a lot for the competitor, you need to attack these 2 business units and gain back market share.
+3. Conduct a [SWOT](https://www.marketing91.com/swot-analysis-brands/) analysis – Although this sounds like a management jargon, conduct a [SWOT analysis](https://www.marketing91.com/swot-analysis/) of yourself vs all the direct competitors you have listed.&#x20;
+
+\
 
 
 \
