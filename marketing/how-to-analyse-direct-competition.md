@@ -36,7 +36,10 @@ Here are some of the things you may notice**:**
 2. Analyze sales revenue – You will get sales revenues from trade reports or from [market analysis](https://www.marketing91.com/market-analysis/). Sales revenue will give you the overall breakdown of where the competitor is earning major revenue from. So if out of 4 business units, 2 are earning a lot for the competitor, you need to attack these 2 business units and gain back market share.
 3. Conduct a [SWOT](https://www.marketing91.com/swot-analysis-brands/) analysis – Although this sounds like a management jargon, conduct a [SWOT analysis](https://www.marketing91.com/swot-analysis/) of yourself vs all the direct competitors you have listed.&#x20;
 
-\
+### Step 4. Build value to defeat competition
 
+* [Building value through marketing channels](https://www.marketing91.com/networks-marketing-channels/)
+* [Building customer value](https://www.marketing91.com/4-features-build-customer-value/)
+* [Value chain by porter](https://www.marketing91.com/value-chain-porter/)
 
 \
