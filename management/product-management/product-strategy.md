@@ -13,11 +13,11 @@ A good product strategy:
 
 ### **Elevator pitch framework**
 
-**For **\[the individual or group/ target customer]
+**For** \[the individual or group/ target customer]
 
 **who** \[has an unmet need/ customer need],
 
-**the **\[product name]
+**the** \[product name]
 
 **is a** \[concise explanation of your product/ market category]
 
@@ -31,7 +31,7 @@ A good product strategy:
 
 **Example for AWS:**
 
-_For growing companies who need to control infrastructure costs as they grow, Amazon Web Services or AWS is a cloud hosting service that is highly flexible. Unlike Google Cloud or Microsoft Azure, AWS offers a complete portfolio of Cloud services. _
+_For growing companies who need to control infrastructure costs as they grow, Amazon Web Services or AWS is a cloud hosting service that is highly flexible. Unlike Google Cloud or Microsoft Azure, AWS offers a complete portfolio of Cloud services._&#x20;
 
 ### Planning strategy
 

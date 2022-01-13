@@ -40,19 +40,19 @@ All Interviews are a mix of these types:
 
 **Question types:**
 
-* **Open-ended **(What makes you interested in this product? In what ways would this product be more valuable for you? Tell me more...)
+* **Open-ended** (What makes you interested in this product? In what ways would this product be more valuable for you? Tell me more...)
 * **Rating and ranking** (How would you rate this product? What does 4 mean for you?)
-* **Projectives **(My job would be so easier if this product ..., When I use this product I feel... If this product was designed by Apple or Tesla how would it looks like?)
-* **Laddering **(Why is that important?)
-* **Ethnography **(it is more observation. Watch how customer uses your product)
+* **Projectives** (My job would be so easier if this product ..., When I use this product I feel... If this product was designed by Apple or Tesla how would it looks like?)
+* **Laddering** (Why is that important?)
+* **Ethnography** (it is more observation. Watch how customer uses your product)
 
-**Open-ended **(What makes you interested in this product? In what ways would this product be more valuable for you? Tell me more...).
+**Open-ended** (What makes you interested in this product? In what ways would this product be more valuable for you? Tell me more...).
 
 
 
 **Question rules:**
 
-1. **Ask open-ended questions! **
+1. **Ask open-ended questions!**&#x20;
 2. Don't ask binary question (yes or no)
 3. Don't ask hypothetical question (not real situation, people don't really know what they would do in hypothetical situations)
 4. Don't ask leading question (do you want to save money? almost rethorical, these are questions that somehow include the answer)

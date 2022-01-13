@@ -7,7 +7,7 @@
 * **Identify the segments** - group customers with very similar needs, use market reserch, customer data, key opinion leaders
 * **Profile the segments** - customer chracteristics, describe, size, location, key trends...
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 ### Customer needs
 

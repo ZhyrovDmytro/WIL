@@ -22,7 +22,7 @@ const filterArrayByValue = <T>(
 
 \<T> is a generic type;
 
-To make it better, we want the **propertyName** to be the **name of a property contained in the type of **_**T**_, plus we want the value to filter to be a **partial** value of the entity_ _T. We can introduce **another generic type which extends T**_**, **_**called P** to tell TypeScript we want to use a property of_ _T_ _as the second parameter
+To make it better, we want the **propertyName** to be the **name of a property contained in the type of **_**T**_, plus we want the value to filter to be a **partial** value of the entity __ T. We can introduce **another generic type which extends T**_**,**_** called P** to tell TypeScript we want to use a property of __ T __ as the second parameter
 
 ```
 const filterArrayByValue = <T, P extends keyof T>(

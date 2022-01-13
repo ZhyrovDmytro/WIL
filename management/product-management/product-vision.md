@@ -8,13 +8,13 @@
 
 #### <mark style="background-color:orange;">Facebook</mark>
 
-**Global vision: **
+**Global vision:**&#x20;
 
 * In the future, every single person on the planet will be connected to the internet
 * Artificial intelligence will be good enough that we can talk to computers like humans
 * VR / AR will be a vital part of daily life for most people
 
-**Company vision: **
+**Company vision:**&#x20;
 
 By 2026, every single person on the planet will be connected inside some part of the Facebook ecosystem - over a billion new users - with the majority of these new users enabled via the internet.org operation (drone internet)
 

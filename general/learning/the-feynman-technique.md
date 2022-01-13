@@ -9,7 +9,7 @@
 
 During the learning step it is very important not just to memorize the topic but rather to **understand the principles**. Another good method of studying is to write.
 
-**Step 2 **
+**Step 2**&#x20;
 
 > If you want to master something, teach it. Teaching is a powerful tool for learning.
 
@@ -17,7 +17,7 @@ Break things down is as much simpler and plain language as possible and pretend 
 
 **Step 3**
 
-When you are stuck with explanations using basic words or cannot make a connection with the main topic just get back to the source and fill the gap. 
+When you are stuck with explanations using basic words or cannot make a connection with the main topic just get back to the source and fill the gap.&#x20;
 
 **Step 4**
 

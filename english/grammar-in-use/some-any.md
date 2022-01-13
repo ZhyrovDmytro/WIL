@@ -2,19 +2,19 @@
 
 Use **some(somebody, someone, something)** <mark style="background-color:blue;">in positive</mark> sentence
 
-<mark style="background-color:orange;">We</mark> <mark style="background-color:orange;">**bought**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**some**</mark> <mark style="background-color:orange;">flowers</mark>
+<mark style="background-color:orange;">We</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**bought**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**some**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">flowers</mark>
 
-<mark style="background-color:orange;">He</mark> <mark style="background-color:orange;">**has some**</mark> <mark style="background-color:orange;">work to do.</mark>
+<mark style="background-color:orange;">He</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**has some**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">work to do.</mark>
 
-<mark style="background-color:orange;">I</mark> <mark style="background-color:orange;">**want**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**something**</mark> <mark style="background-color:orange;">to eat.</mark>
+<mark style="background-color:orange;">I</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**want**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;"></mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**something**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">to eat.</mark>
 
-Use  **any(anybody, anything etc.) **in <mark style="background-color:blue;">negative</mark> sentence
+Use  **any(anybody, anything etc.)** in <mark style="background-color:blue;">negative</mark> sentence
 
-<mark style="background-color:orange;">We</mark> <mark style="background-color:orange;">**didn't**</mark> <mark style="background-color:orange;">buy</mark> <mark style="background-color:orange;">**any**</mark> <mark style="background-color:orange;">flowers.</mark>
+<mark style="background-color:orange;">We</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**didn't**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">buy</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**any**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">flowers.</mark>
 
-<mark style="background-color:orange;">He</mark> <mark style="background-color:orange;">**never**</mark> <mark style="background-color:orange;">does</mark> <mark style="background-color:orange;">**any**</mark> <mark style="background-color:orange;">work.</mark>
+<mark style="background-color:orange;">He</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**never**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">does</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**any**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">work.</mark>
 
-<mark style="background-color:orange;">I</mark> <mark style="background-color:orange;">**don't**</mark> <mark style="background-color:orange;">want</mark> <mark style="background-color:orange;">**anything**</mark> <mark style="background-color:orange;">to eat.</mark>
+<mark style="background-color:orange;">I</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**don't**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">want</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">**anything**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">to eat.</mark>
 
 Use **any** with when **the meaning is negative**:
 
@@ -62,6 +62,6 @@ Use **any** with when **the meaning is negative**:
 
 <mark style="background-color:blue;">but we use they/them/their after these words:</mark>
 
-**Someone has **forgotten **their** umbrella
+**Someone has** forgotten **their** umbrella
 
 If **anybody** **wants** to leave early, **they** can

@@ -3,7 +3,7 @@
 ### Key functions of Agile leader:
 
 * **Allow to failure**. After the failure, we share What went wrong, Why it went wrong, How to avoid it in the future
-* **Sharing knowledge is empowerment.  **
+* **Sharing knowledge is empowerment.** &#x20;
 * **Support team decisions.**
 
 ### Self-transformation:

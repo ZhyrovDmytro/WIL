@@ -59,6 +59,7 @@
     * [Pricing](management/product-management/product-management-101/pricing.md)
     * [New Product development](management/product-management/product-management-101/new-product-development.md)
   * [Question to ask](management/product-management/question-to-ask.md)
+  * [Lean canvas technique](management/product-management/lean-canvas-technique.md)
   * [The Kano Model](management/product-management/the-kano-model.md)
   * [7 steps to run MVP experiment](management/product-management/7-steps-to-run-mvp-experiment.md)
   * [MVP techniques](management/product-management/mvp-techniques.md)

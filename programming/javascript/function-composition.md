@@ -43,7 +43,7 @@ const compose =
     fns.reduceRight((res, fn) => fn(res), x);
 ```
 
-the X value is passed to reduce func as an acc and as a initial value, **we execute every function passed as argument from rigth to left with the result of aprevious one. **
+the X value is passed to reduce func as an acc and as a initial value, **we execute every function passed as argument from rigth to left with the result of aprevious one.**&#x20;
 
 ### **Pipe**
 
