@@ -1,8 +1,22 @@
+---
+layout: editorial
+---
+
 # Product Vision
 
 **Vision** - a vivid mental image, especially a fanciful one of the future.
 
 **Visionary** - _especially when referring to a person_ - a visionary is one who is thinking about or planning the future with imagination or wisdom.
+
+
+
+**Vision statement templates:**
+
+1. We believe (in) a \[**noun:** world, time, state, etc.] where \[**persona**] can \[**verb:** do, make, offer, etc.], for/by/with \[**benefit/goal**].\
+
+2. To \[**verb:** empower, unlock, enable, create, etc.] \[**persona**] to \[**benefit, goal, future state**].\
+
+3. Our vision is to \[**verb:** build, design, provide], the \[**goal, future state**], to \[**verb:** help, enable, make it easier to...] \[**persona**].
 
 ### Examples of product visions
 
