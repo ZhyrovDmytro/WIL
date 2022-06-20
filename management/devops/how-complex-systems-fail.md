@@ -1,3 +1,3 @@
 # How complex systems fail
 
-[How complex systems fail.](https://how.complexsystems.fail)
+[How complex systems fail.](https://how.complexsystems.fail/)

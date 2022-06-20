@@ -44,7 +44,7 @@ Every business, no matter what industry or size, will have some key metrics that
 
 This is the most difficult to block to answer. However, do try to think about this as having an unfair advantage can help when it comes seeking partners & investors. Here is a [great definition of unfair advantage](http://blog.asmartbear.com/unfair-advantages.html): _“The only real competitive advantage is that which cannot be copied and cannot be bought.”_ — Jason Cohen. Unfair advantage can be insider information, a dream team, getting expert endorsements, existing customers etc. So rather than think about adding something like “commitment and passion” as an unfair advantage (because it is not), think about what you have that no one else can buy.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 **source**: INSPIRED (book)
 

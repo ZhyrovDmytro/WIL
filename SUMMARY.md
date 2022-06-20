@@ -94,6 +94,7 @@
 
 ## marketing
 
+* [SWOT analysis](marketing/swot-analysis.md)
 * [How to Analyse Direct competition](marketing/how-to-analyse-direct-competition.md)
 * [Competitor analysis](marketing/competitor-analysis.md)
 
